@@ -1,4 +1,5 @@
- Budgeting-App
+
+Budgeting-App
 
 Dream Spend is a personal finance management app designed to make budgeting an engaging and rewarding experience. Built with user-friendly design and rich features, Dream Spend helps users track expenses, manage budgets, and achieve savings goals through intuitive tools and gamified elements.
 
@@ -38,6 +39,9 @@ Tumelo Cynthia Lamola - ST10147766
 Nonhlanhla Masinga - ST10048689
 Mokgadi Kefilwe Moitsi - ST10364979
 Precious Pheeha - ST10388513
+
+LINK TO GITHUB:
+https://github.com/ST10147766/Budgeting-App
 
 
 
